@@ -1,0 +1,18 @@
+{
+  "provider_id": "groq",
+  "name": "Groq",
+  "primary_model": "llama-3-70b",
+  "models": [
+    "llama-3.3-70b-versatile",
+    "mixtral-8x7b",
+    "gemma2-9b-it"
+  ],
+  "active": true,
+  "in_use_by": [],
+  "usage_stats": {
+    "requests": 0,
+    "tokens": 0,
+    "errors": 0
+  },
+  "created_at": "2026-04-09T04:34:10.438717Z"
+}
