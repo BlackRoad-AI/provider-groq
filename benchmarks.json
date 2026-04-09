@@ -1,0 +1,21 @@
+{
+  "provider": "groq",
+  "models": {
+    "llama-3.3-70b-versatile": {
+      "latency_ms": null,
+      "tokens_per_sec": null,
+      "cost_per_1k": null
+    },
+    "mixtral-8x7b": {
+      "latency_ms": null,
+      "tokens_per_sec": null,
+      "cost_per_1k": null
+    },
+    "gemma2-9b-it": {
+      "latency_ms": null,
+      "tokens_per_sec": null,
+      "cost_per_1k": null
+    }
+  },
+  "last_benchmarked": null
+}
